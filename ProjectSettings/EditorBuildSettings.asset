@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 8f4ee0dd1f8434ef09a8596eb37494af
+  - enabled: 1
+    path: Assets/Scenes/Snake.unity
+    guid: e7ff61579519a4ac08d3d35818f115fd
+  m_configObjects: {}

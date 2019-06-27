@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/Boot.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Snake.unity
+  isLoaded: 0
+  isActive: 0

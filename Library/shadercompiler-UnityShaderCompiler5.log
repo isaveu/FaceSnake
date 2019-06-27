@@ -1,0 +1,124 @@
+Base path: /Applications/Unity/Hub/Editor/2018.3.4f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=45217 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=51977 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=59273 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=42677 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=59745 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=73025 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=55665 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14379 outsize=57969 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at (0): Program 'Deferred_Indirect_ShadowMask_Fptl_Variant26', warning X4714: sum of temp registers and indexable temp registers times 256 threads exceeds the recommended total 16384.  Performance may be reduced
+  api=14 insize=14379 outsize=104333 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=100809 outsize=223453 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=73741 outsize=153821 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=61861 outsize=124445 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=75857 outsize=159021 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=26814 outsize=17433 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=18109 outsize=34973 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8969 outsize=2965 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4845 outsize=5141 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2673 outsize=4529 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=18299 outsize=11321 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9637 outsize=16453 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=19063 outsize=16557 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=16461 outsize=33529 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=2517 outsize=2845 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1093 outsize=1081 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=102601 outsize=625253 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34758 outsize=49153 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34758 outsize=49153 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=47005 outsize=94225 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=46289 outsize=93145 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16360 outsize=15893 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=16893 outsize=19861 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2077 outsize=3273 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1505 outsize=2277 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=5777 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=6377 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=7265 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=9761 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=6845 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=7925 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=7829 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=9533 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16866 outsize=11909 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=7245 outsize=13221 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=7809 outsize=13965 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9797 outsize=17921 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9865 outsize=18689 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8697 outsize=16397 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9573 outsize=17821 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11725 outsize=22237 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=12321 outsize=24153 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+
+Quitting shader compiler process
